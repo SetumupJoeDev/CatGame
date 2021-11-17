@@ -1243,3 +1243,307 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.11.17-20.10.12:876][610]LogSlate: Window 'Asset Report' being destroyed
 [2021.11.17-20.10.21:427][591]LogUObjectHash: Compacting FUObjectHashTables data took   3.49ms
 [2021.11.17-20.10.31:598][801]LogSlate: Window 'Asset Report' being destroyed
+[2021.11.17-20.29.25:122][191]LogUObjectHash: Compacting FUObjectHashTables data took   3.38ms
+[2021.11.17-20.29.25:152][191]LogLinker: Warning: [AssetLog] E:\Documents\PortfolioRepos\CatGame\HerdingCats\Content\FirstPersonBP\Maps\RomeStreetLevel.umap: Failed to load '/Game/FirstPersonBP/Maps/RomeStreetLevel_BuiltData': Can't find file.
+[2021.11.17-20.29.25:153][191]LogLinker: Warning: [AssetLog] E:\Documents\PortfolioRepos\CatGame\HerdingCats\Content\FirstPersonBP\Maps\RomeStreetLevel.umap: Failed to load '/Game/FirstPersonBP/Maps/RomeStreetLevel_BuiltData': Can't find file.
+[2021.11.17-20.29.25:161][191]LogPackageName: Error: DoesPackageExist: DoesPackageExist FAILED: '/Substance/Templates/parent_materials/Substance_Basic_Template' is not a standard unreal filename or a long path name. Reason: Path does not start with a valid root. Path must begin with: '/Engine/', '/Game/', '/Paper2D/', '/AnimationSharing/', '/DatasmithContent/', '/GeometryMode/', '/Niagara/', '/SpeedTreeImporter/', '/ChaosClothEditor/', '/ChaosNiagara/', '/ChaosSolverPlugin/', '/GeometryProcessing/', '/GeometryCollectionPlugin/', '/PythonScriptPlugin/', '/MotoSynth/', '/MagicLeap/', '/MagicLeapPassableWorld/', '/MediaCompositing/', '/AudioSynesthesia/', '/OpenXR/', '/OpenXREyeTracker/', '/OpenXRHandTracking/', '/PostSplashScreen/', '/Synthesis/', '/Takes/', '/OculusVR/', '/SteamVR/', '/Config/', '/Script/', '/Extra/', '/Memory/', or '/Temp/'
+[2021.11.17-20.29.25:161][191]LogLinker: Warning: [AssetLog] E:\Documents\PortfolioRepos\CatGame\HerdingCats\Content\FirstPersonBP\Paving_MAT.uasset: Failed to load '/Substance/Templates/parent_materials/Substance_Basic_Template': Can't find file.
+[2021.11.17-20.29.25:161][191]LogPackageName: Error: DoesPackageExist: DoesPackageExist FAILED: '/Substance/Templates/parent_materials/Substance_Basic_Template' is not a standard unreal filename or a long path name. Reason: Path does not start with a valid root. Path must begin with: '/Engine/', '/Game/', '/Paper2D/', '/AnimationSharing/', '/DatasmithContent/', '/GeometryMode/', '/Niagara/', '/SpeedTreeImporter/', '/ChaosClothEditor/', '/ChaosNiagara/', '/ChaosSolverPlugin/', '/GeometryProcessing/', '/GeometryCollectionPlugin/', '/PythonScriptPlugin/', '/MotoSynth/', '/MagicLeap/', '/MagicLeapPassableWorld/', '/MediaCompositing/', '/AudioSynesthesia/', '/OpenXR/', '/OpenXREyeTracker/', '/OpenXRHandTracking/', '/PostSplashScreen/', '/Synthesis/', '/Takes/', '/OculusVR/', '/SteamVR/', '/Config/', '/Script/', '/Extra/', '/Memory/', or '/Temp/'
+[2021.11.17-20.29.25:161][191]LogPackageName: Error: DoesPackageExist: DoesPackageExist FAILED: '/Substance/Templates/parent_materials/Substance_Basic_Template' is not a standard unreal filename or a long path name. Reason: Path does not start with a valid root. Path must begin with: '/Engine/', '/Game/', '/Paper2D/', '/AnimationSharing/', '/DatasmithContent/', '/GeometryMode/', '/Niagara/', '/SpeedTreeImporter/', '/ChaosClothEditor/', '/ChaosNiagara/', '/ChaosSolverPlugin/', '/GeometryProcessing/', '/GeometryCollectionPlugin/', '/PythonScriptPlugin/', '/MotoSynth/', '/MagicLeap/', '/MagicLeapPassableWorld/', '/MediaCompositing/', '/AudioSynesthesia/', '/OpenXR/', '/OpenXREyeTracker/', '/OpenXRHandTracking/', '/PostSplashScreen/', '/Synthesis/', '/Takes/', '/OculusVR/', '/SteamVR/', '/Config/', '/Script/', '/Extra/', '/Memory/', or '/Temp/'
+[2021.11.17-20.29.25:161][191]LogLinker: Warning: [AssetLog] E:\Documents\PortfolioRepos\CatGame\HerdingCats\Content\FirstPersonBP\Paving_MAT.uasset: Failed to load '/Substance/Templates/parent_materials/Substance_Basic_Template': Can't find file.
+[2021.11.17-20.29.25:163][191]LogPackageName: Error: DoesPackageExist: DoesPackageExist FAILED: '/Substance/Templates/parent_materials/Substance_Basic_Template' is not a standard unreal filename or a long path name. Reason: Path does not start with a valid root. Path must begin with: '/Engine/', '/Game/', '/Paper2D/', '/AnimationSharing/', '/DatasmithContent/', '/GeometryMode/', '/Niagara/', '/SpeedTreeImporter/', '/ChaosClothEditor/', '/ChaosNiagara/', '/ChaosSolverPlugin/', '/GeometryProcessing/', '/GeometryCollectionPlugin/', '/PythonScriptPlugin/', '/MotoSynth/', '/MagicLeap/', '/MagicLeapPassableWorld/', '/MediaCompositing/', '/AudioSynesthesia/', '/OpenXR/', '/OpenXREyeTracker/', '/OpenXRHandTracking/', '/PostSplashScreen/', '/Synthesis/', '/Takes/', '/OculusVR/', '/SteamVR/', '/Config/', '/Script/', '/Extra/', '/Memory/', or '/Temp/'
+[2021.11.17-20.29.25:164][191]LogLinker: Warning: [AssetLog] E:\Documents\PortfolioRepos\CatGame\HerdingCats\Content\FirstPersonBP\Paving_MAT.uasset: Failed to load '/Substance/Templates/parent_materials/Substance_Basic_Template': Can't find file.
+[2021.11.17-20.29.25:164][191]LogPackageName: Error: DoesPackageExist: DoesPackageExist FAILED: '/Substance/Templates/textures/default_color' is not a standard unreal filename or a long path name. Reason: Path does not start with a valid root. Path must begin with: '/Engine/', '/Game/', '/Paper2D/', '/AnimationSharing/', '/DatasmithContent/', '/GeometryMode/', '/Niagara/', '/SpeedTreeImporter/', '/ChaosClothEditor/', '/ChaosNiagara/', '/ChaosSolverPlugin/', '/GeometryProcessing/', '/GeometryCollectionPlugin/', '/PythonScriptPlugin/', '/MotoSynth/', '/MagicLeap/', '/MagicLeapPassableWorld/', '/MediaCompositing/', '/AudioSynesthesia/', '/OpenXR/', '/OpenXREyeTracker/', '/OpenXRHandTracking/', '/PostSplashScreen/', '/Synthesis/', '/Takes/', '/OculusVR/', '/SteamVR/', '/Config/', '/Script/', '/Extra/', '/Memory/', or '/Temp/'
+[2021.11.17-20.29.25:164][191]LogLinker: Warning: [AssetLog] E:\Documents\PortfolioRepos\CatGame\HerdingCats\Content\FirstPersonBP\Paving_MAT.uasset: Failed to load '/Substance/Templates/textures/default_color': Can't find file.
+[2021.11.17-20.29.25:164][191]LogPackageName: Error: DoesPackageExist: DoesPackageExist FAILED: '/Substance/Templates/textures/default_color' is not a standard unreal filename or a long path name. Reason: Path does not start with a valid root. Path must begin with: '/Engine/', '/Game/', '/Paper2D/', '/AnimationSharing/', '/DatasmithContent/', '/GeometryMode/', '/Niagara/', '/SpeedTreeImporter/', '/ChaosClothEditor/', '/ChaosNiagara/', '/ChaosSolverPlugin/', '/GeometryProcessing/', '/GeometryCollectionPlugin/', '/PythonScriptPlugin/', '/MotoSynth/', '/MagicLeap/', '/MagicLeapPassableWorld/', '/MediaCompositing/', '/AudioSynesthesia/', '/OpenXR/', '/OpenXREyeTracker/', '/OpenXRHandTracking/', '/PostSplashScreen/', '/Synthesis/', '/Takes/', '/OculusVR/', '/SteamVR/', '/Config/', '/Script/', '/Extra/', '/Memory/', or '/Temp/'
+[2021.11.17-20.29.25:164][191]LogPackageName: Error: DoesPackageExist: DoesPackageExist FAILED: '/Substance/Templates/textures/default_color' is not a standard unreal filename or a long path name. Reason: Path does not start with a valid root. Path must begin with: '/Engine/', '/Game/', '/Paper2D/', '/AnimationSharing/', '/DatasmithContent/', '/GeometryMode/', '/Niagara/', '/SpeedTreeImporter/', '/ChaosClothEditor/', '/ChaosNiagara/', '/ChaosSolverPlugin/', '/GeometryProcessing/', '/GeometryCollectionPlugin/', '/PythonScriptPlugin/', '/MotoSynth/', '/MagicLeap/', '/MagicLeapPassableWorld/', '/MediaCompositing/', '/AudioSynesthesia/', '/OpenXR/', '/OpenXREyeTracker/', '/OpenXRHandTracking/', '/PostSplashScreen/', '/Synthesis/', '/Takes/', '/OculusVR/', '/SteamVR/', '/Config/', '/Script/', '/Extra/', '/Memory/', or '/Temp/'
+[2021.11.17-20.29.25:164][191]LogLinker: Warning: [AssetLog] E:\Documents\PortfolioRepos\CatGame\HerdingCats\Content\FirstPersonBP\Paving_MAT.uasset: Failed to load '/Substance/Templates/textures/default_color': Can't find file.
+[2021.11.17-20.29.25:164][191]LogPackageName: Error: DoesPackageExist: DoesPackageExist FAILED: '/Substance/Templates/textures/default_normal' is not a standard unreal filename or a long path name. Reason: Path does not start with a valid root. Path must begin with: '/Engine/', '/Game/', '/Paper2D/', '/AnimationSharing/', '/DatasmithContent/', '/GeometryMode/', '/Niagara/', '/SpeedTreeImporter/', '/ChaosClothEditor/', '/ChaosNiagara/', '/ChaosSolverPlugin/', '/GeometryProcessing/', '/GeometryCollectionPlugin/', '/PythonScriptPlugin/', '/MotoSynth/', '/MagicLeap/', '/MagicLeapPassableWorld/', '/MediaCompositing/', '/AudioSynesthesia/', '/OpenXR/', '/OpenXREyeTracker/', '/OpenXRHandTracking/', '/PostSplashScreen/', '/Synthesis/', '/Takes/', '/OculusVR/', '/SteamVR/', '/Config/', '/Script/', '/Extra/', '/Memory/', or '/Temp/'
+[2021.11.17-20.29.25:164][191]LogLinker: Warning: [AssetLog] E:\Documents\PortfolioRepos\CatGame\HerdingCats\Content\FirstPersonBP\Paving_MAT.uasset: Failed to load '/Substance/Templates/textures/default_normal': Can't find file.
+[2021.11.17-20.29.25:164][191]LogPackageName: Error: DoesPackageExist: DoesPackageExist FAILED: '/Substance/Templates/textures/default_normal' is not a standard unreal filename or a long path name. Reason: Path does not start with a valid root. Path must begin with: '/Engine/', '/Game/', '/Paper2D/', '/AnimationSharing/', '/DatasmithContent/', '/GeometryMode/', '/Niagara/', '/SpeedTreeImporter/', '/ChaosClothEditor/', '/ChaosNiagara/', '/ChaosSolverPlugin/', '/GeometryProcessing/', '/GeometryCollectionPlugin/', '/PythonScriptPlugin/', '/MotoSynth/', '/MagicLeap/', '/MagicLeapPassableWorld/', '/MediaCompositing/', '/AudioSynesthesia/', '/OpenXR/', '/OpenXREyeTracker/', '/OpenXRHandTracking/', '/PostSplashScreen/', '/Synthesis/', '/Takes/', '/OculusVR/', '/SteamVR/', '/Config/', '/Script/', '/Extra/', '/Memory/', or '/Temp/'
+[2021.11.17-20.29.25:164][191]LogPackageName: Error: DoesPackageExist: DoesPackageExist FAILED: '/Substance/Templates/textures/default_normal' is not a standard unreal filename or a long path name. Reason: Path does not start with a valid root. Path must begin with: '/Engine/', '/Game/', '/Paper2D/', '/AnimationSharing/', '/DatasmithContent/', '/GeometryMode/', '/Niagara/', '/SpeedTreeImporter/', '/ChaosClothEditor/', '/ChaosNiagara/', '/ChaosSolverPlugin/', '/GeometryProcessing/', '/GeometryCollectionPlugin/', '/PythonScriptPlugin/', '/MotoSynth/', '/MagicLeap/', '/MagicLeapPassableWorld/', '/MediaCompositing/', '/AudioSynesthesia/', '/OpenXR/', '/OpenXREyeTracker/', '/OpenXRHandTracking/', '/PostSplashScreen/', '/Synthesis/', '/Takes/', '/OculusVR/', '/SteamVR/', '/Config/', '/Script/', '/Extra/', '/Memory/', or '/Temp/'
+[2021.11.17-20.29.25:164][191]LogLinker: Warning: [AssetLog] E:\Documents\PortfolioRepos\CatGame\HerdingCats\Content\FirstPersonBP\Paving_MAT.uasset: Failed to load '/Substance/Templates/textures/default_normal': Can't find file.
+[2021.11.17-20.29.25:164][191]LogPackageName: Error: DoesPackageExist: DoesPackageExist FAILED: '/Substance/Templates/textures/default_color' is not a standard unreal filename or a long path name. Reason: Path does not start with a valid root. Path must begin with: '/Engine/', '/Game/', '/Paper2D/', '/AnimationSharing/', '/DatasmithContent/', '/GeometryMode/', '/Niagara/', '/SpeedTreeImporter/', '/ChaosClothEditor/', '/ChaosNiagara/', '/ChaosSolverPlugin/', '/GeometryProcessing/', '/GeometryCollectionPlugin/', '/PythonScriptPlugin/', '/MotoSynth/', '/MagicLeap/', '/MagicLeapPassableWorld/', '/MediaCompositing/', '/AudioSynesthesia/', '/OpenXR/', '/OpenXREyeTracker/', '/OpenXRHandTracking/', '/PostSplashScreen/', '/Synthesis/', '/Takes/', '/OculusVR/', '/SteamVR/', '/Config/', '/Script/', '/Extra/', '/Memory/', or '/Temp/'
+[2021.11.17-20.29.25:164][191]LogLinker: Warning: [AssetLog] E:\Documents\PortfolioRepos\CatGame\HerdingCats\Content\FirstPersonBP\Paving_MAT.uasset: Failed to load '/Substance/Templates/textures/default_color': Can't find file.
+[2021.11.17-20.29.25:164][191]LogPackageName: Error: DoesPackageExist: DoesPackageExist FAILED: '/Substance/Templates/textures/default_normal' is not a standard unreal filename or a long path name. Reason: Path does not start with a valid root. Path must begin with: '/Engine/', '/Game/', '/Paper2D/', '/AnimationSharing/', '/DatasmithContent/', '/GeometryMode/', '/Niagara/', '/SpeedTreeImporter/', '/ChaosClothEditor/', '/ChaosNiagara/', '/ChaosSolverPlugin/', '/GeometryProcessing/', '/GeometryCollectionPlugin/', '/PythonScriptPlugin/', '/MotoSynth/', '/MagicLeap/', '/MagicLeapPassableWorld/', '/MediaCompositing/', '/AudioSynesthesia/', '/OpenXR/', '/OpenXREyeTracker/', '/OpenXRHandTracking/', '/PostSplashScreen/', '/Synthesis/', '/Takes/', '/OculusVR/', '/SteamVR/', '/Config/', '/Script/', '/Extra/', '/Memory/', or '/Temp/'
+[2021.11.17-20.29.25:164][191]LogLinker: Warning: [AssetLog] E:\Documents\PortfolioRepos\CatGame\HerdingCats\Content\FirstPersonBP\Paving_MAT.uasset: Failed to load '/Substance/Templates/textures/default_normal': Can't find file.
+[2021.11.17-20.29.25:178][191]LogLinker: Warning: [AssetLog] E:\Documents\PortfolioRepos\CatGame\HerdingCats\Content\FirstPersonBP\Maps\RomeStreetLevel.umap: Failed to load '/Game/FirstPersonBP/Maps/RomeStreetLevel_BuiltData': Can't find file.
+[2021.11.17-20.29.25:180][191]LogLinker: Warning: Failed to load '/Game/FirstPersonBP/Maps/RomeStreetLevel_BuiltData': Can't find file.
+[2021.11.17-20.29.25:180][191]LogLinker: Warning: Failed to load '/Game/FirstPersonBP/Maps/RomeStreetLevel_BuiltData': Can't find file.
+[2021.11.17-20.29.25:188][191]LogLinker: Warning: [AssetLog] E:\Documents\PortfolioRepos\CatGame\HerdingCats\Content\FirstPersonBP\Maps\RomeStreetLevel.umap: Failed to load '/Game/FirstPersonBP/Maps/RomeStreetLevel_BuiltData': Can't find file.
+[2021.11.17-20.29.25:188][191]LoadErrors: Failed to load /Game/FirstPersonBP/Maps/RomeStreetLevel_BuiltData.RomeStreetLevel_BuiltData Referenced by PersistentLevel
+[2021.11.17-20.29.25:197][191]LogTexture: Display: Building textures: M_EyesLarge_Roughness (OODLE_AutoDXT, 2048X2048)
+[2021.11.17-20.29.25:197][191]LogPackageName: Error: DoesPackageExist: DoesPackageExist FAILED: '/Substance/Templates/parent_materials/Substance_Basic_Template' is not a standard unreal filename or a long path name. Reason: Path does not start with a valid root. Path must begin with: '/Engine/', '/Game/', '/Paper2D/', '/AnimationSharing/', '/DatasmithContent/', '/GeometryMode/', '/Niagara/', '/SpeedTreeImporter/', '/ChaosClothEditor/', '/ChaosNiagara/', '/ChaosSolverPlugin/', '/GeometryProcessing/', '/GeometryCollectionPlugin/', '/PythonScriptPlugin/', '/MotoSynth/', '/MagicLeap/', '/MagicLeapPassableWorld/', '/MediaCompositing/', '/AudioSynesthesia/', '/OpenXR/', '/OpenXREyeTracker/', '/OpenXRHandTracking/', '/PostSplashScreen/', '/Synthesis/', '/Takes/', '/OculusVR/', '/SteamVR/', '/Config/', '/Script/', '/Extra/', '/Memory/', or '/Temp/'
+[2021.11.17-20.29.25:197][191]LogLinker: Warning: [AssetLog] E:\Documents\PortfolioRepos\CatGame\HerdingCats\Content\FirstPersonBP\Paving_MAT.uasset: Failed to load '/Substance/Templates/parent_materials/Substance_Basic_Template': Can't find file.
+[2021.11.17-20.29.25:197][191]LoadErrors: Failed to load /Substance/Templates/parent_materials/Substance_Basic_Template.Substance_Basic_Template Referenced by Paving_MAT
+[2021.11.17-20.29.25:197][191]LogPackageName: Error: DoesPackageExist: DoesPackageExist FAILED: '/Substance/Templates/textures/default_color' is not a standard unreal filename or a long path name. Reason: Path does not start with a valid root. Path must begin with: '/Engine/', '/Game/', '/Paper2D/', '/AnimationSharing/', '/DatasmithContent/', '/GeometryMode/', '/Niagara/', '/SpeedTreeImporter/', '/ChaosClothEditor/', '/ChaosNiagara/', '/ChaosSolverPlugin/', '/GeometryProcessing/', '/GeometryCollectionPlugin/', '/PythonScriptPlugin/', '/MotoSynth/', '/MagicLeap/', '/MagicLeapPassableWorld/', '/MediaCompositing/', '/AudioSynesthesia/', '/OpenXR/', '/OpenXREyeTracker/', '/OpenXRHandTracking/', '/PostSplashScreen/', '/Synthesis/', '/Takes/', '/OculusVR/', '/SteamVR/', '/Config/', '/Script/', '/Extra/', '/Memory/', or '/Temp/'
+[2021.11.17-20.29.25:197][191]LogLinker: Warning: [AssetLog] E:\Documents\PortfolioRepos\CatGame\HerdingCats\Content\FirstPersonBP\Paving_MAT.uasset: Failed to load '/Substance/Templates/textures/default_color': Can't find file.
+[2021.11.17-20.29.25:197][191]LoadErrors: Failed to load /Substance/Templates/textures/default_color.default_color Referenced by Paving_MAT
+[2021.11.17-20.29.25:197][191]LogPackageName: Error: DoesPackageExist: DoesPackageExist FAILED: '/Substance/Templates/textures/default_normal' is not a standard unreal filename or a long path name. Reason: Path does not start with a valid root. Path must begin with: '/Engine/', '/Game/', '/Paper2D/', '/AnimationSharing/', '/DatasmithContent/', '/GeometryMode/', '/Niagara/', '/SpeedTreeImporter/', '/ChaosClothEditor/', '/ChaosNiagara/', '/ChaosSolverPlugin/', '/GeometryProcessing/', '/GeometryCollectionPlugin/', '/PythonScriptPlugin/', '/MotoSynth/', '/MagicLeap/', '/MagicLeapPassableWorld/', '/MediaCompositing/', '/AudioSynesthesia/', '/OpenXR/', '/OpenXREyeTracker/', '/OpenXRHandTracking/', '/PostSplashScreen/', '/Synthesis/', '/Takes/', '/OculusVR/', '/SteamVR/', '/Config/', '/Script/', '/Extra/', '/Memory/', or '/Temp/'
+[2021.11.17-20.29.25:198][191]LogLinker: Warning: [AssetLog] E:\Documents\PortfolioRepos\CatGame\HerdingCats\Content\FirstPersonBP\Paving_MAT.uasset: Failed to load '/Substance/Templates/textures/default_normal': Can't find file.
+[2021.11.17-20.29.25:198][191]LoadErrors: Failed to load /Substance/Templates/textures/default_normal.default_normal Referenced by Paving_MAT
+[2021.11.17-20.29.25:214][191]LogTexture: Display: Building textures: M_EyesLarge_Normal (OODLE_BC5, 2048X2048)
+[2021.11.17-20.29.25:214][191]LogTexture: Display: Building textures: M_FurPlain_Roughness (OODLE_AutoDXT, 2048X2048)
+[2021.11.17-20.29.25:214][191]LogMaterial: Display: Missing cached shadermap for lambert1 in PCD3D_SM5, Default, SM5 (DDC key hash: 369C00092B9B22AA6127996F8EFB86F764759692), compiling. 
+[2021.11.17-20.29.25:260][191]LogTexture: Display: Building textures: M_EyesLarge_BaseColor (OODLE_AutoDXT, 2048X2048)
+[2021.11.17-20.29.25:260][191]LogShaderCompilers: Display: Submitted 16 shader compile jobs with 'Low' priority
+[2021.11.17-20.29.25:260][191]LogStaticMesh: Building static mesh Chair_01...
+[2021.11.17-20.29.25:276][191]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 16
+[2021.11.17-20.29.25:276][191]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 7
+[2021.11.17-20.29.25:276][191]LogShaderCompilers: Display: Started 16 'Local' shader compile jobs with 'Low' priority
+[2021.11.17-20.29.25:276][191]LogStaticMesh: Built static mesh [0.02s] /Game/FirstPersonBP/Assets/Chair_01.Chair_01
+[2021.11.17-20.29.25:371][191]LogTexture: Display: Building textures: M_FurPlain_BaseColor (OODLE_AutoDXT, 2048X2048)
+[2021.11.17-20.29.25:500][191]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2021.11.17-20.29.25:500][191]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_BC5 (Oodle OodleTex_BC5U) lambda=0 effort=20 
+[2021.11.17-20.29.25:500][191]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2021.11.17-20.29.25:500][191]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2021.11.17-20.29.25:933][191]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2021.11.17-20.29.25:933][191]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2021.11.17-20.29.25:933][191]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_BC5 (Oodle OodleTex_BC5U) lambda=0 effort=20 
+[2021.11.17-20.29.25:933][191]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2021.11.17-20.29.25:933][191]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2021.11.17-20.29.26:307][191]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2021.11.17-20.29.26:308][191]LogTexture: Display: Building textures: Paving_INST_roughness (G8, 1024X1024)
+[2021.11.17-20.29.26:308][191]LogTexture: Display: Building textures: Paving_INST_normal (OODLE_BC5, 1024X1024)
+[2021.11.17-20.29.26:308][191]LogTexture: Display: Building textures: Paving_INST_metallic (G8, 1024X1024)
+[2021.11.17-20.29.26:308][191]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_BC5 (Oodle OodleTex_BC5U) lambda=0 effort=20 
+[2021.11.17-20.29.26:308][191]LogTexture: Display: Building textures: Paving_INST_basecolor (OODLE_AutoDXT, 1024X1024)
+[2021.11.17-20.29.26:308][191]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2021.11.17-20.29.26:308][191]LogTexture: Display: Building textures: Paving_INST_ambientocclusion (G8, 1024X1024)
+[2021.11.17-20.29.26:308][191]LogTexture: Display: Building textures: Vet_Packed (OODLE_AutoDXT, 2048X2048)
+[2021.11.17-20.29.26:328][191]LogTexture: Display: Building textures: Vet_Normal (OODLE_BC5, 2048X2048)
+[2021.11.17-20.29.26:328][191]LogTexture: Display: Building textures: M_FurPlain_2_Normal (OODLE_BC5, 2048X2048)
+[2021.11.17-20.29.26:432][191]LogTexture: Display: Building textures: Vet_BaseColour (OODLE_AutoDXT, 2048X2048)
+[2021.11.17-20.29.26:432][191]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_BC5 (Oodle OodleTex_BC5U) lambda=0 effort=20 
+[2021.11.17-20.29.26:566][191]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2021.11.17-20.29.26:566][191]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_BC5 (Oodle OodleTex_BC5U) lambda=0 effort=20 
+[2021.11.17-20.29.26:661][191]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_BC5 (Oodle OodleTex_BC5U) lambda=0 effort=20 
+[2021.11.17-20.29.26:661][191]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2021.11.17-20.29.26:661][191]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2021.11.17-20.29.26:661][191]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_BC5 (Oodle OodleTex_BC5U) lambda=0 effort=20 
+[2021.11.17-20.29.26:662][191]LogMaterial: Display: Missing cached shadermap for M_CatFur in PCD3D_SM5, Default, SM5 (DDC key hash: 2B860D6D4F34BC37344440AA942CE4B07BAE08BD), compiling. 
+[2021.11.17-20.29.26:678][191]LogShaderCompilers: Display: Submitted 16 shader compile jobs with 'Low' priority
+[2021.11.17-20.29.26:680][191]LogMaterial: Display: Missing cached shadermap for lambert2 in PCD3D_SM5, Default, SM5 (DDC key hash: C9F03B91DDDE597045ED3E2181D738DD15119CAA), compiling. 
+[2021.11.17-20.29.26:733][191]LogShaderCompilers: Display: Submitted 32 shader compile jobs with 'Low' priority
+[2021.11.17-20.29.26:733][191]LogStaticMesh: Building static mesh Cat_Regular1...
+[2021.11.17-20.29.26:785][191]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2021.11.17-20.29.26:785][191]LogStaticMesh: Built static mesh [0.05s] /Game/FirstPersonBP/Assets/Cat_Regular1.Cat_Regular1
+[2021.11.17-20.29.26:792][191]LogMaterial: Display: Missing cached shadermap for M_CatEyesFull in PCD3D_SM5, Default, SM5 (DDC key hash: 7DFBADB1F88CB4B30AB1733AAA0C0FC31570724E), compiling. 
+[2021.11.17-20.29.26:807][191]LogShaderCompilers: Display: Submitted 16 shader compile jobs with 'Low' priority
+[2021.11.17-20.29.26:879][191]LogMaterial: Display: Missing cached shadermap for M_Vet in PCD3D_SM5, Default, SM5 (DDC key hash: E03F5F6464FE13C287181891AB05A73520916D33), compiling. 
+[2021.11.17-20.29.26:906][191]LogShaderCompilers: Display: Submitted 32 shader compile jobs with 'Low' priority
+[2021.11.17-20.29.26:907][191]LogMaterial: Display: Missing cached shadermap for RedPaint in PCD3D_SM5, Default, SM5 (DDC key hash: E5201E82744BD0B61238A3A88818C9A3968C2776), compiling. 
+[2021.11.17-20.29.26:970][191]LogShaderCompilers: Display: Submitted 30 shader compile jobs with 'Low' priority
+[2021.11.17-20.29.26:972][191]LogMaterial: Display: Missing cached shadermap for OrangePaint in PCD3D_SM5, Default, SM5 (DDC key hash: 6ACB651CB3608A01C583971034FAC86903AB81A7), compiling. 
+[2021.11.17-20.29.27:000][191]LogShaderCompilers: Display: Submitted 30 shader compile jobs with 'Low' priority
+[2021.11.17-20.29.27:011][191]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/FirstPersonBP/VetDance_Animation_Anim.VetDance_Animation_Anim
+[2021.11.17-20.29.27:012][191]LogStaticMesh: Building static mesh Door_Single_01...
+[2021.11.17-20.29.27:032][191]LogStaticMesh: Built static mesh [0.02s] /Game/FirstPersonBP/Assets/Door_Single_01.Door_Single_01
+[2021.11.17-20.29.27:033][191]LogStaticMesh: Building static mesh Floor01...
+[2021.11.17-20.29.27:034][191]LogStaticMesh: Built static mesh [0.00s] /Game/FirstPersonBP/Assets/Floor01.Floor01
+[2021.11.17-20.29.27:035][191]LogStaticMesh: Building static mesh Pipe_01...
+[2021.11.17-20.29.27:037][191]LogStaticMesh: Built static mesh [0.00s] /Game/FirstPersonBP/Assets/Pipe_01.Pipe_01
+[2021.11.17-20.29.27:037][191]LogStaticMesh: Building static mesh PlantPot_01...
+[2021.11.17-20.29.27:045][191]LogStaticMesh: Built static mesh [0.01s] /Game/FirstPersonBP/Assets/PlantPot_01.PlantPot_01
+[2021.11.17-20.29.27:046][191]LogStaticMesh: Building static mesh PlantPot_02...
+[2021.11.17-20.29.27:066][191]LogStaticMesh: Built static mesh [0.02s] /Game/FirstPersonBP/Assets/PlantPot_02.PlantPot_02
+[2021.11.17-20.29.27:067][191]LogStaticMesh: Building static mesh Small_Truck_01...
+[2021.11.17-20.29.27:097][191]LogStaticMesh: Built static mesh [0.03s] /Game/FirstPersonBP/Assets/Small_Truck_01.Small_Truck_01
+[2021.11.17-20.29.27:101][191]LogStaticMesh: Building static mesh Table_01...
+[2021.11.17-20.29.27:111][191]LogStaticMesh: Built static mesh [0.01s] /Game/FirstPersonBP/Assets/Table_01.Table_01
+[2021.11.17-20.29.27:113][191]LogStaticMesh: Building static mesh WallBlock_01...
+[2021.11.17-20.29.27:127][191]LogStaticMesh: Built static mesh [0.01s] /Game/FirstPersonBP/Assets/WallBlock_01.WallBlock_01
+[2021.11.17-20.29.27:129][191]LogStaticMesh: Building static mesh WallBlock_02...
+[2021.11.17-20.29.27:193][191]LogStaticMesh: Built static mesh [0.06s] /Game/FirstPersonBP/Assets/WallBlock_02.WallBlock_02
+[2021.11.17-20.29.27:200][191]LogStaticMesh: Building static mesh WallBlock_03...
+[2021.11.17-20.29.27:224][191]LogStaticMesh: Built static mesh [0.02s] /Game/FirstPersonBP/Assets/WallBlock_03.WallBlock_03
+[2021.11.17-20.29.27:228][191]LogStaticMesh: Building static mesh Window_Hatching_01...
+[2021.11.17-20.29.27:237][191]LogStaticMesh: Built static mesh [0.01s] /Game/FirstPersonBP/Assets/Window_Hatching_01.Window_Hatching_01
+[2021.11.17-20.29.27:238][191]LogStaticMesh: Building static mesh Window_Interior_L_01...
+[2021.11.17-20.29.27:242][191]LogStaticMesh: Built static mesh [0.00s] /Game/FirstPersonBP/Assets/Window_Interior_L_01.Window_Interior_L_01
+[2021.11.17-20.29.27:243][191]LogStaticMesh: Building static mesh Window_Interior_M_01...
+[2021.11.17-20.29.27:250][191]LogStaticMesh: Built static mesh [0.01s] /Game/FirstPersonBP/Assets/Window_Interior_M_01.Window_Interior_M_01
+[2021.11.17-20.29.27:251][191]LogStaticMesh: Building static mesh Window_Interior_S_01...
+[2021.11.17-20.29.27:255][191]LogStaticMesh: Built static mesh [0.00s] /Game/FirstPersonBP/Assets/Window_Interior_S_01.Window_Interior_S_01
+[2021.11.17-20.29.27:256][191]LogStaticMesh: Building static mesh WindowShutter_Large_01...
+[2021.11.17-20.29.27:266][191]LogStaticMesh: Built static mesh [0.01s] /Game/FirstPersonBP/Assets/WindowShutter_Large_01.WindowShutter_Large_01
+[2021.11.17-20.29.27:268][191]LogStaticMesh: Building static mesh WindowShutter_Medium_01...
+[2021.11.17-20.29.27:278][191]LogStaticMesh: Built static mesh [0.01s] /Game/FirstPersonBP/Assets/WindowShutter_Medium_01.WindowShutter_Medium_01
+[2021.11.17-20.29.27:280][191]LogStaticMesh: Building static mesh WindowShutter_Small_01...
+[2021.11.17-20.29.27:288][191]LogStaticMesh: Built static mesh [0.01s] /Game/FirstPersonBP/Assets/WindowShutter_Small_01.WindowShutter_Small_01
+[2021.11.17-20.29.27:293][191]LogMaterial: Display: Missing cached shadermap for Clay in PCD3D_SM5, Default, SM5 (DDC key hash: 3A0247374788A802D9084E721D00E0DB41EF1551), compiling. 
+[2021.11.17-20.29.27:312][191]LogShaderCompilers: Display: Submitted 16 shader compile jobs with 'Low' priority
+[2021.11.17-20.29.27:313][191]LogMaterial: Display: Missing cached shadermap for BluePaint in PCD3D_SM5, Default, SM5 (DDC key hash: 2F52280C4CC9610294645F1D665DBE7F479F73AE), compiling. 
+[2021.11.17-20.29.27:338][191]LogShaderCompilers: Display: Submitted 16 shader compile jobs with 'Low' priority
+[2021.11.17-20.29.27:339][191]LogMaterial: Display: Missing cached shadermap for Green in PCD3D_SM5, Default, SM5 (DDC key hash: 433B2F4C0D95C80D44EBD40002F7534A70423F12), compiling. 
+[2021.11.17-20.29.27:360][191]LogShaderCompilers: Display: Submitted 25 shader compile jobs with 'Low' priority
+[2021.11.17-20.29.27:362][191]LogMaterial: Display: Missing cached shadermap for YellowPaint in PCD3D_SM5, Default, SM5 (DDC key hash: 89AFC36ECC3691E33C8EB4EE36B8C028225631E9), compiling. 
+[2021.11.17-20.29.27:387][191]LogShaderCompilers: Display: Submitted 30 shader compile jobs with 'Low' priority
+[2021.11.17-20.29.27:390][191]LogSkeletalMesh: Building Skeletal Mesh VetDance_Animation...
+[2021.11.17-20.29.27:692][191]LogSkeletalMesh: Section 0: Material=0, 12194 triangles
+[2021.11.17-20.29.27:721][191]LogSkeletalMesh: Built Skeletal Mesh [0.33s] /Game/FirstPersonBP/VetDance_Animation.VetDance_Animation
+[2021.11.17-20.29.27:722][191]LogMaterial: Display: Missing cached shadermap for Green in PCD3D_SM5, Default, SM5 (DDC key hash: 7CB45CB6B00A1DB57F4A5752E02CEE4805C74BE1), compiling. 
+[2021.11.17-20.29.27:742][191]LogMaterial: Display: Missing cached shadermap for Metal in PCD3D_SM5, Default, SM5 (DDC key hash: 66A51DF274D3417890F4F1F4C8E0539BD2C67428), compiling. 
+[2021.11.17-20.29.27:766][191]LogShaderCompilers: Display: Submitted 25 shader compile jobs with 'Low' priority
+[2021.11.17-20.29.27:767][191]LogMaterial: Display: Missing cached shadermap for M_CatFurVar in PCD3D_SM5, Default, SM5 (DDC key hash: E81A1E70CB3788AE552C08B1D53A05ABC8FB3756), compiling. 
+[2021.11.17-20.29.27:784][191]LogShaderCompilers: Display: Submitted 16 shader compile jobs with 'Low' priority
+[2021.11.17-20.29.27:785][191]LogMaterial: Display: Missing cached shadermap for lambert12 in PCD3D_SM5, Default, SM5 (DDC key hash: 084DEB3AFE73D99EDE01CF76D9EB7F40D159C6AD), compiling. 
+[2021.11.17-20.29.27:800][191]LogShaderCompilers: Display: Submitted 16 shader compile jobs with 'Low' priority
+[2021.11.17-20.29.27:801][191]LogMaterial: Display: Missing cached shadermap for lambert10 in PCD3D_SM5, Default, SM5 (DDC key hash: 99D295330C591A19BBD608410258EC59C521C39B), compiling. 
+[2021.11.17-20.29.27:819][191]LogShaderCompilers: Display: Submitted 16 shader compile jobs with 'Low' priority
+[2021.11.17-20.29.27:821][191]LogMaterial: Display: Missing cached shadermap for lambert1 in PCD3D_SM5, Default, SM5 (DDC key hash: 184938D08C24863CFECA988CCA428E921D931FFA), compiling. 
+[2021.11.17-20.29.27:853][191]LogShaderCompilers: Display: Submitted 9 shader compile jobs with 'Low' priority
+[2021.11.17-20.29.27:854][191]LogMaterial: Display: Missing cached shadermap for Green1 in PCD3D_SM5, Default, SM5 (DDC key hash: 1B2DE1F8CBCA86951E69DE022546AE0C99B47564), compiling. 
+[2021.11.17-20.29.27:870][191]LogShaderCompilers: Display: Submitted 16 shader compile jobs with 'Low' priority
+[2021.11.17-20.29.27:871][191]LogMaterial: Display: Missing cached shadermap for DarkBrown in PCD3D_SM5, Default, SM5 (DDC key hash: A8A19007578C036D46DFB6CB5E33AC44D1F71553), compiling. 
+[2021.11.17-20.29.27:888][191]LogShaderCompilers: Display: Submitted 16 shader compile jobs with 'Low' priority
+[2021.11.17-20.29.27:889][191]LogMaterial: Display: Missing cached shadermap for Cream in PCD3D_SM5, Default, SM5 (DDC key hash: 2185742C49D3472FE9F4295C18B1C99101E13897), compiling. 
+[2021.11.17-20.29.27:912][191]LogShaderCompilers: Display: Submitted 25 shader compile jobs with 'Low' priority
+[2021.11.17-20.29.27:913][191]LogMaterial: Display: Missing cached shadermap for lambert9 in PCD3D_SM5, Default, SM5 (DDC key hash: 16F294AA3F8A68A42B5DFEFE21C6E74557F44064), compiling. 
+[2021.11.17-20.29.27:928][191]LogShaderCompilers: Display: Submitted 16 shader compile jobs with 'Low' priority
+[2021.11.17-20.29.27:929][191]LogMaterial: Display: Missing cached shadermap for lambert8 in PCD3D_SM5, Default, SM5 (DDC key hash: 07BB038BB5D0A6D5B2AEF37413F896FF1FFE1EFE), compiling. 
+[2021.11.17-20.29.27:960][191]LogShaderCompilers: Display: Submitted 16 shader compile jobs with 'Low' priority
+[2021.11.17-20.29.27:961][191]LogMaterial: Display: Missing cached shadermap for LightGreen in PCD3D_SM5, Default, SM5 (DDC key hash: 43277FAA08EA5317117D4842036849BD9E23B959), compiling. 
+[2021.11.17-20.29.27:977][191]LogShaderCompilers: Display: Submitted 16 shader compile jobs with 'Low' priority
+[2021.11.17-20.29.28:000][191]LogSkinnedMeshComp: Warning: GetSocketByName(GripPoint): No SkeletalMesh for Component(Mesh2P) Actor(FirstPersonCharacter_C_1)
+[2021.11.17-20.29.28:000][191]LogSkinnedMeshComp: Warning: GetSocketByName(GripPoint): No SkeletalMesh for Component(Mesh2P) Actor(FirstPersonCharacter_C_1)
+[2021.11.17-20.29.28:000][191]LogSkinnedMeshComp: Warning: GetSocketByName(GripPoint): No SkeletalMesh for Component(Mesh2P) Actor(FirstPersonCharacter_C_1)
+[2021.11.17-20.29.28:003][191]LogSkinnedMeshComp: Warning: GetSocketByName(GripPoint): No SkeletalMesh for Component(Mesh2P) Actor(FirstPersonCharacter_C_1)
+[2021.11.17-20.29.28:014][191]LogAssetEditorSubsystem: Opening Asset editor for World /Game/FirstPersonBP/Maps/RomeStreetLevel.RomeStreetLevel
+[2021.11.17-20.29.28:014][191]Cmd: MAP LOAD FILE="../../../../../Documents/PortfolioRepos/CatGame/HerdingCats/Content/FirstPersonBP/Maps/RomeStreetLevel.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.11.17-20.29.28:014][191]LightingResults: New page: Lighting Build
+[2021.11.17-20.29.28:015][191]LoadErrors: New page: Loading map: RomeStreetLevel.umap
+[2021.11.17-20.29.28:069][191]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2021.11.17-20.29.28:069][191]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.11.17-20.29.28:135][191]LogWorld: UWorld::CleanupWorld for FirstPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2021.11.17-20.29.28:135][191]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.11.17-20.29.28:136][191]MapCheck: New page: Map Check
+[2021.11.17-20.29.28:136][191]LightingResults: New page: Lighting Build
+[2021.11.17-20.29.28:176][191]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.11.17-20.29.28:219][191]LogUObjectHash: Compacting FUObjectHashTables data took   3.70ms
+[2021.11.17-20.29.28:230][191]LogAudio: Display: Audio Device (ID: 1) registered with world 'RomeStreetLevel'.
+[2021.11.17-20.29.28:273][191]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.11.17-20.29.28:273][191]LogAIModule: Creating AISystem for world RomeStreetLevel
+[2021.11.17-20.29.28:343][191]LogUObjectHash: Compacting FUObjectHashTables data took   3.02ms
+[2021.11.17-20.29.28:352][191]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.11.17-20.29.28:352][191]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.116ms to complete.
+[2021.11.17-20.29.28:352][191]LogFileHelpers: Loading map 'RomeStreetLevel' took 0.338
+[2021.11.17-20.29.30:186][313]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 44
+[2021.11.17-20.29.30:186][313]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'ForceLocal' priority
+[2021.11.17-20.29.30:186][313]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2021.11.17-20.29.30:186][313]LogShaderCompilers: Display: Total job queries 478, among them cache hits 0 (0.00%)
+[2021.11.17-20.29.30:186][313]LogShaderCompilers: Display: Tracking 7 distinct input hashes that result in 6 distinct outputs (85.71%)
+[2021.11.17-20.29.30:186][313]LogShaderCompilers: Display: RAM used: 0.03 MB (0.00 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.00%
+[2021.11.17-20.29.30:186][313]LogShaderCompilers: Display: ================================================
+[2021.11.17-20.29.30:383][336]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 34
+[2021.11.17-20.29.30:383][336]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'ForceLocal' priority
+[2021.11.17-20.29.33:637][699]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 24
+[2021.11.17-20.29.33:637][699]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'ForceLocal' priority
+[2021.11.17-20.29.33:685][699]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 14
+[2021.11.17-20.29.33:685][699]LogShaderCompilers: Display: Started 8 'Local' shader compile jobs with 'ForceLocal' priority
+[2021.11.17-20.29.36:951][ 81]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 6
+[2021.11.17-20.29.36:951][ 81]LogShaderCompilers: Display: Started 4 'Local' shader compile jobs with 'ForceLocal' priority
+[2021.11.17-20.29.37:078][ 95]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 2
+[2021.11.17-20.29.37:078][ 95]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2021.11.17-20.29.38:036][209]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 324
+[2021.11.17-20.29.38:036][209]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2021.11.17-20.29.38:563][271]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 314
+[2021.11.17-20.29.38:563][271]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2021.11.17-20.29.42:202][686]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 304
+[2021.11.17-20.29.42:202][686]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2021.11.17-20.29.42:468][717]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 294
+[2021.11.17-20.29.42:468][717]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2021.11.17-20.29.45:681][ 94]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 284
+[2021.11.17-20.29.45:681][ 94]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2021.11.17-20.29.46:845][231]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 274
+[2021.11.17-20.29.46:845][231]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2021.11.17-20.29.49:625][553]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 264
+[2021.11.17-20.29.49:626][553]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2021.11.17-20.29.50:526][658]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 254
+[2021.11.17-20.29.50:526][658]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2021.11.17-20.29.53:754][ 34]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 244
+[2021.11.17-20.29.53:754][ 34]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2021.11.17-20.29.54:148][ 79]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 234
+[2021.11.17-20.29.54:148][ 79]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2021.11.17-20.29.57:624][489]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 224
+[2021.11.17-20.29.57:625][489]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2021.11.17-20.29.57:650][492]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 214
+[2021.11.17-20.29.57:650][492]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2021.11.17-20.30.01:085][888]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 204
+[2021.11.17-20.30.01:085][888]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2021.11.17-20.30.02:005][996]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 194
+[2021.11.17-20.30.02:005][996]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2021.11.17-20.30.05:444][400]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 184
+[2021.11.17-20.30.05:444][400]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2021.11.17-20.30.06:933][575]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 174
+[2021.11.17-20.30.06:933][575]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2021.11.17-20.30.08:870][750]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 164
+[2021.11.17-20.30.08:870][750]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2021.11.17-20.30.10:710][907]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 154
+[2021.11.17-20.30.10:710][907]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2021.11.17-20.30.12:245][ 31]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 144
+[2021.11.17-20.30.12:245][ 31]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2021.11.17-20.30.14:927][344]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 134
+[2021.11.17-20.30.14:927][344]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2021.11.17-20.30.16:802][565]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 124
+[2021.11.17-20.30.16:802][565]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2021.11.17-20.30.18:489][690]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 114
+[2021.11.17-20.30.18:489][690]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2021.11.17-20.30.20:785][861]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 104
+[2021.11.17-20.30.20:785][861]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2021.11.17-20.30.22:391][ 37]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 94
+[2021.11.17-20.30.22:391][ 37]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2021.11.17-20.30.25:258][191]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 84
+[2021.11.17-20.30.25:258][191]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2021.11.17-20.30.26:484][263]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 74
+[2021.11.17-20.30.26:484][263]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2021.11.17-20.30.28:689][453]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 64
+[2021.11.17-20.30.28:690][453]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2021.11.17-20.30.30:924][715]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 54
+[2021.11.17-20.30.30:924][715]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2021.11.17-20.30.32:844][927]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 44
+[2021.11.17-20.30.32:844][927]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2021.11.17-20.30.34:692][135]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 34
+[2021.11.17-20.30.34:692][135]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2021.11.17-20.30.37:796][486]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 24
+[2021.11.17-20.30.37:797][486]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2021.11.17-20.30.38:535][569]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 14
+[2021.11.17-20.30.38:535][569]LogShaderCompilers: Display: Started 8 'Local' shader compile jobs with 'Normal' priority
+[2021.11.17-20.30.41:186][836]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 6
+[2021.11.17-20.30.41:186][836]LogShaderCompilers: Display: Started 4 'Local' shader compile jobs with 'Normal' priority
+[2021.11.17-20.30.42:254][927]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 2
+[2021.11.17-20.30.42:254][927]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Normal' priority
+[2021.11.17-20.30.42:833][970]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 62
+[2021.11.17-20.30.42:833][970]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2021.11.17-20.30.44:246][ 65]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 52
+[2021.11.17-20.30.44:246][ 65]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2021.11.17-20.30.46:241][206]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 42
+[2021.11.17-20.30.46:241][206]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2021.11.17-20.30.47:834][307]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 32
+[2021.11.17-20.30.47:834][307]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2021.11.17-20.30.49:498][434]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 22
+[2021.11.17-20.30.49:498][434]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2021.11.17-20.30.51:608][621]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 12
+[2021.11.17-20.30.51:608][621]LogShaderCompilers: Display: Started 7 'Local' shader compile jobs with 'Low' priority
+[2021.11.17-20.30.52:581][711]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 5
+[2021.11.17-20.30.52:581][711]LogShaderCompilers: Display: Started 3 'Local' shader compile jobs with 'Low' priority
+[2021.11.17-20.30.53:404][786]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 2
+[2021.11.17-20.30.53:404][786]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Low' priority
+[2021.11.17-20.31.08:204][426]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2021.11.17-20.33.04:928][867]LogDirectoryWatcher: Display: A directory notification failed for '../../Plugins/Experimental/ChaosClothEditor/Content/' because it could not be accessed. Aborting watch request...
+[2021.11.17-20.33.04:928][867]LogDirectoryWatcher: Display: A directory notification failed for '../../Plugins/Experimental/ChaosSolverPlugin/Content/' because it could not be accessed. Aborting watch request...
+[2021.11.17-20.33.05:928][870]LogDirectoryWatcher: Display: A directory notification failed for '../../Plugins/Experimental/GeometryProcessing/Content/' because it could not be accessed. Aborting watch request...
+[2021.11.17-20.33.06:600][872]LogDirectoryWatcher: Display: A directory notification failed for '../../Plugins/Experimental/MotoSynth/Content/' because it could not be accessed. Aborting watch request...
+[2021.11.17-20.33.09:950][882]LogDirectoryWatcher: Display: A directory notification failed for '../../Plugins/Lumin/MagicLeap/Content/' because it could not be accessed. Aborting watch request...
+[2021.11.17-20.33.14:971][897]LogDirectoryWatcher: Display: A directory notification failed for '../../Plugins/Runtime/AudioSynesthesia/Content/' because it could not be accessed. Aborting watch request...
+[2021.11.17-20.33.17:326][904]LogDirectoryWatcher: Display: A directory notification failed for '../../Plugins/Runtime/OpenXREyeTracker/Content/' because it could not be accessed. Aborting watch request...
+[2021.11.17-20.33.17:326][904]LogDirectoryWatcher: Display: A directory notification failed for '../../Plugins/Runtime/OpenXRHandTracking/Content/' because it could not be accessed. Aborting watch request...
+[2021.11.17-20.33.17:659][905]LogDirectoryWatcher: Display: A directory notification failed for '../../Plugins/Runtime/PostSplashScreen/Content/' because it could not be accessed. Aborting watch request...
+[2021.11.17-20.33.53:551][920]LogSlate: Window 'Plugins' being destroyed
+[2021.11.17-20.33.53:556][920]LogSlate: Window 'Plugins' being destroyed
+[2021.11.17-20.33.53:556][920]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/' was aborted.
+[2021.11.17-20.34.08:530][578]LogSlate: Window 'Plugins' being destroyed
+[2021.11.17-20.34.08:536][578]LogSlate: Window 'Plugins' being destroyed
+[2021.11.17-20.34.08:536][578]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/' was aborted.
+[2021.11.17-20.34.10:533][781]LogUObjectHash: Compacting FUObjectHashTables data took   4.28ms
+[2021.11.17-21.53.25:250][606]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected.
