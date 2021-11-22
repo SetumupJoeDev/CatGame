@@ -17,7 +17,7 @@ Windows.Engine:AssetRegistry:bFilterSearchableNames:0=true
 Windows.Engine:Core.System:LegacyBulkDataOffsets:0=False
 Windows.Engine:Core.System:CanUseUnversionedPropertySerialization:0=False
 Windows.Engine:/Script/EngineSettings.GameMapsSettings:GameInstanceClass:0=/Script/Engine.GameInstance
-Windows.Engine:/Script/EngineSettings.GameMapsSettings:GameDefaultMap:0=/Game/FirstPersonBP/Maps/FirstPersonExampleMap
+Windows.Engine:/Script/EngineSettings.GameMapsSettings:GameDefaultMap:0=/Game/FirstPersonBP/Maps/GameLevels.GameLevels
 Windows.Engine:/Script/EngineSettings.GameMapsSettings:ServerDefaultMap:0=/Engine/Maps/Entry
 Windows.Engine:/Script/EngineSettings.GameMapsSettings:GlobalDefaultGameMode:0=/Game/FirstPersonBP/Blueprints/FirstPersonGameMode.FirstPersonGameMode_C
 Windows.Engine:/Script/EngineSettings.GameMapsSettings:GlobalDefaultServerGameMode:0=None
@@ -28,8 +28,6 @@ Engine:Core.System:CanSkipEditorReferencedPackagesWhenCooking:0=False
 Engine:Core.System:DetailedCallstacksInNonMonolithicBuilds:0=True
 Engine:Core.System:UseSeperateBulkDataFiles:0=False
 Engine:Core.System:HangDuration:0=0.0
-Engine:Core.System:AssetLogShowsDiskPath:0=True
-Engine:Core.System:AssetLogShowsAbsolutePath:0=True
 Engine:/Script/UdpMessaging.UdpMessagingSettings:EnabledByDefault:0=False
 Engine:/Script/UdpMessaging.UdpMessagingSettings:EnableTransport:0=True
 Engine:/Script/UdpMessaging.UdpMessagingSettings:bAutoRepair:0=True
@@ -57,7 +55,7 @@ Engine:/Script/UnrealEd.EditorEngine:SmoothedFrameRateRange:0=(LowerBound=(Type=
 Engine:/Script/UnrealEd.EditorEngine:InEditorGameURLOptions:0=
 Engine:/Script/EngineSettings.GameMapsSettings:GameInstanceClass:0=/Script/Engine.GameInstance
 Engine:/Script/EngineSettings.GameMapsSettings:EditorStartupMap:0=/Game/FirstPersonBP/Maps/FirstPersonExampleMap
-Engine:/Script/EngineSettings.GameMapsSettings:GameDefaultMap:0=/Game/FirstPersonBP/Maps/FirstPersonExampleMap
+Engine:/Script/EngineSettings.GameMapsSettings:GameDefaultMap:0=/Game/FirstPersonBP/Maps/GameLevels.GameLevels
 Engine:/Script/EngineSettings.GameMapsSettings:ServerDefaultMap:0=/Engine/Maps/Entry
 Engine:/Script/EngineSettings.GameMapsSettings:GlobalDefaultGameMode:0=/Game/FirstPersonBP/Blueprints/FirstPersonGameMode.FirstPersonGameMode_C
 Engine:/Script/EngineSettings.GameMapsSettings:LocalMapOptions:0=
@@ -513,7 +511,7 @@ Engine:/Script/HardwareTargeting.HardwareTargetingSettings:DefaultGraphicsPerfor
 Engine:/Script/HardwareTargeting.HardwareTargetingSettings:AppliedDefaultGraphicsPerformance:0=Maximum
 Game:/Script/UnrealEd.ProjectPackagingSettings:Build:0=IfProjectHasCode
 Game:/Script/UnrealEd.ProjectPackagingSettings:BuildTarget:0=
-Game:/Script/UnrealEd.ProjectPackagingSettings:StagingDirectory:0=(Path="C/Users/James/Desktop")
+Game:/Script/UnrealEd.ProjectPackagingSettings:StagingDirectory:0=(Path="C/Users/James/Desktop/Help Meowt Build")
 Game:/Script/UnrealEd.ProjectPackagingSettings:ForDistribution:0=False
 Game:/Script/UnrealEd.ProjectPackagingSettings:IncludeDebugFiles:0=False
 Game:/Script/UnrealEd.ProjectPackagingSettings:BlueprintNativizationMethod:0=Disabled
@@ -622,6 +620,8 @@ Game:/Script/AIModule.EnvQueryManager:bTestQueriesUsingBreadth:0=true
 Game:/Script/AIModule.EnvQueryManager:QueryCountWarningThreshold:0=0
 Game:/Script/AIModule.EnvQueryManager:QueryCountWarningInterval:0=30.0
 Game:/Script/LiveLink.LiveLinkSettings:FrameInterpolationProcessor:0=Class'/Script/LiveLink.LiveLinkBasicFrameInterpolationProcessor'
+Game:/Script/MoviePlayer.MoviePlayerSettings:bWaitForMoviesToComplete:0=False
+Game:/Script/MoviePlayer.MoviePlayerSettings:bMoviesAreSkippable:0=True
 Input:/Script/Engine.InputSettings:bEnableMouseSmoothing:0=True
 Input:/Script/Engine.InputSettings:bEnableFOVScaling:0=True
 Input:/Script/Engine.InputSettings:FOVScale:0=0.011110

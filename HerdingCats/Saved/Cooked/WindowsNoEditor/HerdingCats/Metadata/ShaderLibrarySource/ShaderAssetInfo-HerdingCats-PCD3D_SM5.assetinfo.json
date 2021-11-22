@@ -105,6 +105,12 @@
 			]
 		},
 		{
+			"ShaderMapHash": "39FAD6FE792ED929B27DF491E76EAE3298BBC7B3",
+			"Assets": [
+				"/Substance/Templates/parent_materials/Substance_Basic_Template"
+			]
+		},
+		{
 			"ShaderMapHash": "31092181B2311DF8BFEFC02342BF71F96DDB0AC4",
 			"Assets": [
 				"/Engine/EngineDebugMaterials/WireframeMaterial"
@@ -205,12 +211,13 @@
 			"ShaderMapHash": "6CB5CAC2EF8223107EA2B21906291F541215A3CF",
 			"Assets": [
 				"/Engine/VREditor/TransformGizmo/Xray",
-				"/Game/CatModels/M_EyesLarge",
+				"/Game/FirstPersonBP/lambert10",
+				"/Game/FirstPersonBP/Assets/Green",
 				"/Game/FirstPersonBP/BluePaint",
 				"/Game/FirstPersonBP/lambert9",
 				"/Game/FirstPersonBP/lambert8",
-				"/Game/FirstPersonBP/Assets/Green",
-				"/Game/FirstPersonBP/lambert10"
+				"/Game/CatModels/M_EyesLarge",
+				"/Game/FirstPersonBP/M_EyesLarge"
 			]
 		},
 		{
@@ -274,15 +281,71 @@
 			]
 		},
 		{
-			"ShaderMapHash": "6D966E5C41CF95F7429D1D0F70508D19DCFA4D60",
+			"ShaderMapHash": "A7F398AC550C31EA62584A449F35C143BB8C3FEB",
 			"Assets": [
-				"/Engine/EditorMaterials/PreviewShadowIndicatorMaterial"
+				"/Game/FirstPersonBP/MediumCatTextures/M_CatFur"
 			]
 		},
 		{
-			"ShaderMapHash": "5532C31F2D3986334CDEFCBF4E1201FB6D4D6B00",
+			"ShaderMapHash": "623F9C2E4516B7C4407B0EC8CC59F9A7A440C533",
 			"Assets": [
-				"/Engine/EngineDebugMaterials/DebugEditorMaterial"
+				"/Game/FirstPersonBP/MediumCatTextures/M_CatEyesFull"
+			]
+		},
+		{
+			"ShaderMapHash": "7B20BCE2B25A2E15B7E5DFE0C2094DF133BDE246",
+			"Assets": [
+				"/Game/FirstPersonBP/Materials/lambert2"
+			]
+		},
+		{
+			"ShaderMapHash": "A4BC21BDB19D9A2A7ACA48D6578362C6FF2248BE",
+			"Assets": [
+				"/Game/FirstPersonBP/Textures/Cobblestone/lambert1",
+				"/Game/FirstPersonBP/Materials/VetWhite",
+				"/Game/FirstPersonBP/Materials/lambert10",
+				"/Game/FirstPersonBP/Materials/lambert5",
+				"/Game/FirstPersonBP/Materials/lambert1",
+				"/Game/FirstPersonBP/Materials/BluePaint",
+				"/Game/FirstPersonBP/Materials/Metal",
+				"/Game/FirstPersonBP/Materials/Pacement",
+				"/Game/FirstPersonBP/Materials/LightGreen",
+				"/Game/FirstPersonBP/Materials/lambert12",
+				"/Game/FirstPersonBP/Materials/Green1",
+				"/Game/FirstPersonBP/Materials/DarkBrown",
+				"/Game/FirstPersonBP/Materials/Clay",
+				"/Game/FirstPersonBP/Materials/Green",
+				"/Game/FirstPersonBP/Materials/lambert8",
+				"/Game/FirstPersonBP/Materials/lambert9",
+				"/Game/FirstPersonBP/Assets/Metal",
+				"/Game/FirstPersonBP/Assets/lambert1",
+				"/Game/FirstPersonBP/Materials/M_Clay",
+				"/Game/FirstPersonBP/Materials/M_Green",
+				"/Game/FirstPersonBP/Cream",
+				"/Game/FirstPersonBP/Metal",
+				"/Game/FirstPersonBP/Green"
+			]
+		},
+		{
+			"ShaderMapHash": "1F709444E1DB11611ADC991B50F337A686F82519",
+			"Assets": [
+				"/Game/FirstPersonBP/Textures/Cobblestone/M_TexcordCobblestone"
+			]
+		},
+		{
+			"ShaderMapHash": "03C3A6AB8D37BB2B60C53A51399CA645CC5D01C3",
+			"Assets": [
+				"/Game/FirstPersonBP/Materials/Leaf",
+				"/Game/FirstPersonBP/Materials/Cream",
+				"/Game/FirstPersonBP/Assets/YellowPaint",
+				"/Game/FirstPersonBP/Assets/RedPaint",
+				"/Game/FirstPersonBP/Assets/OrangePaint",
+				"/Game/FirstPersonBP/Materials/YellowPaint",
+				"/Game/FirstPersonBP/Materials/M_YellowPaint",
+				"/Game/FirstPersonBP/Materials/OrangePaint",
+				"/Game/FirstPersonBP/Materials/M_RedPaint",
+				"/Game/FirstPersonBP/Materials/M_OrangePaint",
+				"/Game/FirstPersonBP/Materials/RedPaint"
 			]
 		},
 		{
@@ -292,9 +355,65 @@
 			]
 		},
 		{
+			"ShaderMapHash": "2947CEAC11BFA3DFE1C8C9B99135C5CADB0B6916",
+			"Assets": [
+				"/Game/FirstPersonBP/MediumCatTextures/M_CatFurVar"
+			]
+		},
+		{
 			"ShaderMapHash": "C380564A6414222F6A7E5F57D0F14982D5FD4F14",
 			"Assets": [
 				"/Engine/EngineSky/M_Sky_Panning_Clouds2"
+			]
+		},
+		{
+			"ShaderMapHash": "8D5C9971654E22D92212E61C55D92EEA6D6F673A",
+			"Assets": [
+				"/Engine/BasicShapes/BasicShapeMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "2D61605B7463E1F274A63AF2FDAE5DFFDB16FF75",
+			"Assets": [
+				"/Game/FirstPersonBP/Materials/M_Light_Emissive"
+			]
+		},
+		{
+			"ShaderMapHash": "BD8013CE4B7DF3C650B8071D7391E2A07C8CC380",
+			"Assets": [
+				"/Game/FirstPersonBP/Materials/Glass"
+			]
+		},
+		{
+			"ShaderMapHash": "8271C8A7DF2CD5809D10A715CB84575275E95402",
+			"Assets": [
+				"/Game/FirstPersonBP/Textures/WallPaint/Catjam_Painted_wall_MAT2",
+				"/Game/FirstPersonBP/Textures/WallPaint/Catjam_Painted_wall_MAT",
+				"/Game/FirstPersonBP/Textures/WallPaint/Catjam_Painted_wall_MAT1"
+			]
+		},
+		{
+			"ShaderMapHash": "AF5877EECB709C78580DF25C0D2A79470170C972",
+			"Assets": [
+				"/Game/FirstPersonBP/Assets/M_StreetScatter"
+			]
+		},
+		{
+			"ShaderMapHash": "DD7B6150B1E81D082441F26196F4A6466594D9FD",
+			"Assets": [
+				"/Game/FirstPersonBP/Vet/M_Vet"
+			]
+		},
+		{
+			"ShaderMapHash": "6D966E5C41CF95F7429D1D0F70508D19DCFA4D60",
+			"Assets": [
+				"/Engine/EditorMaterials/PreviewShadowIndicatorMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "5532C31F2D3986334CDEFCBF4E1201FB6D4D6B00",
+			"Assets": [
+				"/Engine/EngineDebugMaterials/DebugEditorMaterial"
 			]
 		},
 		{
@@ -490,6 +609,15 @@
 			]
 		},
 		{
+			"ShaderMapHash": "56131BFC26F3B0FC059440F592ED35BF08398004",
+			"Assets": [
+				"/Game/VetCutsceneAssets/VetCutsceneAssets/Cutscene01/CutScene01_MAT",
+				"/Game/VetCutsceneAssets/VetCutsceneAssets/CutScene02/CutScene02_MAT",
+				"/Game/VetCutsceneAssets/VetCutsceneAssets/CutScene03/CutScene03_MAT",
+				"/Game/VetCutsceneAssets/VetCutsceneAssets/ThankYou_MAT"
+			]
+		},
+		{
 			"ShaderMapHash": "83805D518E3F66AFBE011BE09A6674C65A8DF4F3",
 			"Assets": [
 				"/Game/StarterContent/Materials/M_Ceramic_Tile_Checker"
@@ -678,9 +806,16 @@
 			]
 		},
 		{
-			"ShaderMapHash": "8D5C9971654E22D92212E61C55D92EEA6D6F673A",
+			"ShaderMapHash": "8FD4AB7FDC0BC3C837929677393195B7422CE32B",
 			"Assets": [
-				"/Engine/BasicShapes/BasicShapeMaterial"
+				"/Game/FirstPersonBP/lambert2",
+				"/Game/CatModels/M_FurPlain"
+			]
+		},
+		{
+			"ShaderMapHash": "93F228320C0BD3D3614C34DBC4C29C9D148F2EDA",
+			"Assets": [
+				"/Game/FirstPerson/Meshes/BaseMaterial"
 			]
 		},
 		{
@@ -738,10 +873,15 @@
 			]
 		},
 		{
-			"ShaderMapHash": "8FD4AB7FDC0BC3C837929677393195B7422CE32B",
+			"ShaderMapHash": "EB2A5DBA3E21D57FA75397E75BB1AFADBB0607E1",
 			"Assets": [
-				"/Game/CatModels/M_FurPlain",
-				"/Game/FirstPersonBP/lambert2"
+				"/Game/FPWeapon/Materials/M_FPGun"
+			]
+		},
+		{
+			"ShaderMapHash": "6B983BD5BBF507533FC04B7A9BE7D0AD13533E73",
+			"Assets": [
+				"/Game/FirstPersonBP/CatEye_MAT"
 			]
 		},
 		{
@@ -751,117 +891,9 @@
 			]
 		},
 		{
-			"ShaderMapHash": "EB2A5DBA3E21D57FA75397E75BB1AFADBB0607E1",
+			"ShaderMapHash": "ED6CBF6B5304AA56740662D60B8F35939059D9E2",
 			"Assets": [
-				"/Game/FPWeapon/Materials/M_FPGun"
-			]
-		},
-		{
-			"ShaderMapHash": "03C3A6AB8D37BB2B60C53A51399CA645CC5D01C3",
-			"Assets": [
-				"/Game/FirstPersonBP/Materials/Leaf",
-				"/Game/FirstPersonBP/Assets/YellowPaint",
-				"/Game/FirstPersonBP/Materials/RedPaint",
-				"/Game/FirstPersonBP/Materials/Cream",
-				"/Game/FirstPersonBP/Assets/OrangePaint"
-			]
-		},
-		{
-			"ShaderMapHash": "AF5877EECB709C78580DF25C0D2A79470170C972",
-			"Assets": [
-				"/Game/FirstPersonBP/Assets/M_StreetScatter"
-			]
-		},
-		{
-			"ShaderMapHash": "A4BC21BDB19D9A2A7ACA48D6578362C6FF2248BE",
-			"Assets": [
-				"/Game/FirstPersonBP/Materials/VetWhite",
-				"/Game/FirstPersonBP/Cream",
-				"/Game/FirstPersonBP/Materials/M_Clay",
-				"/Game/FirstPersonBP/Materials/lambert5",
-				"/Game/FirstPersonBP/Materials/BluePaint",
-				"/Game/FirstPersonBP/Materials/M_Green",
-				"/Game/FirstPersonBP/Materials/lambert9",
-				"/Game/FirstPersonBP/Materials/lambert8",
-				"/Game/FirstPersonBP/Materials/Pacement",
-				"/Game/FirstPersonBP/Materials/Green",
-				"/Game/FirstPersonBP/Assets/lambert1",
-				"/Game/FirstPersonBP/Materials/lambert1",
-				"/Game/FirstPersonBP/Textures/Cobblestone/lambert1",
-				"/Game/FirstPersonBP/Materials/Metal",
-				"/Game/FirstPersonBP/Assets/Metal",
-				"/Game/FirstPersonBP/Materials/lambert12",
-				"/Game/FirstPersonBP/Materials/Green1",
-				"/Game/FirstPersonBP/Materials/Clay",
-				"/Game/FirstPersonBP/Materials/LightGreen",
-				"/Game/FirstPersonBP/Materials/DarkBrown",
-				"/Game/FirstPersonBP/Materials/lambert10"
-			]
-		},
-		{
-			"ShaderMapHash": "BD8013CE4B7DF3C650B8071D7391E2A07C8CC380",
-			"Assets": [
-				"/Game/FirstPersonBP/Materials/Glass"
-			]
-		},
-		{
-			"ShaderMapHash": "2D61605B7463E1F274A63AF2FDAE5DFFDB16FF75",
-			"Assets": [
-				"/Game/FirstPersonBP/Materials/M_Light_Emissive"
-			]
-		},
-		{
-			"ShaderMapHash": "1F709444E1DB11611ADC991B50F337A686F82519",
-			"Assets": [
-				"/Game/FirstPersonBP/Textures/Cobblestone/M_TexcordCobblestone"
-			]
-		},
-		{
-			"ShaderMapHash": "7B20BCE2B25A2E15B7E5DFE0C2094DF133BDE246",
-			"Assets": [
-				"/Game/FirstPersonBP/Materials/lambert2"
-			]
-		},
-		{
-			"ShaderMapHash": "8271C8A7DF2CD5809D10A715CB84575275E95402",
-			"Assets": [
-				"/Game/FirstPersonBP/Textures/WallPaint/Catjam_Painted_wall_MAT2"
-			]
-		},
-		{
-			"ShaderMapHash": "2947CEAC11BFA3DFE1C8C9B99135C5CADB0B6916",
-			"Assets": [
-				"/Game/FirstPersonBP/MediumCatTextures/M_CatFurVar"
-			]
-		},
-		{
-			"ShaderMapHash": "93F228320C0BD3D3614C34DBC4C29C9D148F2EDA",
-			"Assets": [
-				"/Game/FirstPerson/Meshes/BaseMaterial"
-			]
-		},
-		{
-			"ShaderMapHash": "DD7B6150B1E81D082441F26196F4A6466594D9FD",
-			"Assets": [
-				"/Game/FirstPersonBP/Vet/M_Vet"
-			]
-		},
-		{
-			"ShaderMapHash": "623F9C2E4516B7C4407B0EC8CC59F9A7A440C533",
-			"Assets": [
-				"/Game/FirstPersonBP/MediumCatTextures/M_CatEyesFull"
-			]
-		},
-		{
-			"ShaderMapHash": "A7F398AC550C31EA62584A449F35C143BB8C3FEB",
-			"Assets": [
-				"/Game/FirstPersonBP/MediumCatTextures/M_CatFur"
-			]
-		},
-		{
-			"ShaderMapHash": "39FAD6FE792ED929B27DF491E76EAE3298BBC7B3",
-			"Assets": [
-				"/Substance/Templates/parent_materials/Substance_Basic_Template"
+				"/Game/FirstPersonBP/Cat_MAT"
 			]
 		}
 	]
